@@ -19,6 +19,8 @@ Para estudo📚
   <li>Notícias Recentes</li>
 </ul>
 
+Link do Projeto: https://matheusmendescc.github.io/Noticia-Cidade/
+
 <!--Organizar README fazendo listas por abas(Home, Brasil, Podscast...)-->
 
 <img src="https://user-images.githubusercontent.com/84646971/152890146-0c3504a6-2ed6-4402-9c44-702a928c916a.png">
