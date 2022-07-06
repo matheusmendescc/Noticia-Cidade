@@ -1,6 +1,6 @@
 <h1>Notícias Cidade</h1> 
 
-> Status: Em Desenvolvimento ⚠
+> Status: Em Desenvolvimento ⚠⚠⚠
 
 <h3>Esta é uma página web para o site Notícias Cidade</h3>
 Para estudo📚
